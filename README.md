@@ -5,4 +5,4 @@ Application under test: link to app
 
 API Documentation: link api DO IF EXIST OR n/a
 
-**The final project will be split into 2 section: <p>Testing section</p> and <p>SQL section</p>**
+**The final project will be split into 2 section: Testing section and SQL section**
