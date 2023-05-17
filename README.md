@@ -26,31 +26,31 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.2 Entry criteria defined**
 
-Smoke test passed. 
+- Smoke test passed. 
 
-Testing environment is up and running.
+- Testing environment is up and running.
 
-Test data should be available to cover the different scenarios and use cases that will be tested.
+- Test data should be available to cover the different scenarios and use cases that will be tested.
 
-Test schedule is prepared.
+- Test schedule is prepared.
 
-Any additional documentation related to specific test scenarios or test data is also prepared.
+- Any additional documentation related to specific test scenarios or test data is also prepared.
 
 **1.1.3 Exit criteria defined**
 
- 90% of tests are passed.
+ - 90% of tests are passed.
 
- No Critical issues have Open status.
+ - No Critical issues have Open status.
  
- Update tests are 100% passed (update tests will not generate other new issues that impact the application).
+ - Update tests are 100% passed (update tests will not generate other new issues that impact the application).
  
- The testing should cover all the functionalities, features identified in the test plan.
+ - The testing should cover all the functionalities, features identified in the test plan.
  
- The website meets the expected performace standards.
+ - The website meets the expected performace standards.
  
- The website meets the expected security standards, including secure payment processing, user data privacy, and protection against hacking and cyber attacks.
+ - The website meets the expected security standards, including secure payment processing, user data privacy, and protection against hacking and cyber attacks.
  
- All required documentation, including test plans, test cases, and test results, has been completed and reviewed.
+ - All required documentation, including test plans, test cases, and test results, has been completed and reviewed.
 
 
 **1.1.4 Test scope**
