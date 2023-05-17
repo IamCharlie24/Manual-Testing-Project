@@ -22,8 +22,36 @@ The Test Plan is designed to describe all details of testing for the X module fr
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 **1.1.1 Roles assigned to the project and persons allocated**
+
+
 **1.1.2 Entry criteria defined**
+
+Smoke test passed. 
+
+Testing environment is up and running.
+
+Test data should be available to cover the different scenarios and use cases that will be tested.
+
+Test schedule is prepared.
+
+Any additional documentation related to specific test scenarios or test data is also prepared.
+
 **1.1.3 Exit criteria defined**
+
+ 90% of tests are passed.
+
+ No Critical issues have Open status.
+ 
+ Update tests are 100% passed (update tests will not generate other new issues that impact the application).
+ 
+ The testing should cover all the functionalities, features identified in the test plan.
+ 
+ The website meets the expected performace standards.
+ 
+ The website meets the expected security standards, including secure payment processing, user data privacy, and protection against hacking and cyber attacks.
+ 
+ All required documentation, including test plans, test cases, and test results, has been completed and reviewed.
+
 
 **1.1.4 Test scope**
  - **Tests in scope:**
