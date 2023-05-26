@@ -73,30 +73,34 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 -	Non-functional testing like stress, performance is beyond scope of this project.
 -	No QA support for mobile applications developed. Only web applications will be tested.
--	Automation testing is beyond scope
+-	Automation testing is beyond scope.
 
 
 **1.1.5 Risks detected:**
  - Projects risks: 
  
-  Technology Dependencies: Dependencies on third-party technologies, frameworks, or APIs may introduce risks related to compatibility issues, version conflicts, or lack of support, which can hinder the development process.
+  - Technology Dependencies: Dependencies on third-party technologies, frameworks, or APIs may introduce risks related to compatibility issues, version conflicts, or lack of support, which can hinder the development process.
+  - Inadequate Testing: Insufficient time or resources allocated for testing activities may result in inadequate test coverage, leading to undetected defects and potential quality issues in the final product.
+  - Communication Breakdown: Poor communication and collaboration among team members, stakeholders, or external vendors can result in misunderstandings, delays, and rework.
+  - Budget Constraints: Insufficient budget allocation for the project may limit access to necessary resources, tools, or technologies, impacting the overall quality or timely completion of the website.
 
--  Testing: Insufficient time or resources allocated for testing activities may result in inadequate test coverage, leading to undetected defects and potential quality issues in the final product.
-
-- Communication Breakdown: Poor communication and collaboration among team members, stakeholders, or external vendors can result in misunderstandings, delays, and rework.
-
-- Budget Constraints: Insufficient budget allocation for the project may limit access to necessary resources, tools, or technologies, impacting the overall quality or timely completion of the website.
-
+ 
  - Poduct risks:
 
 - IE browser might have performance issues.
 - Versions of IE older than Version 112.0.1722.68 have security vulnerabilities (cross-site scripting( user data can be stolen after injecting malicious code in  the website), exploits on buying system).
 - The web page pagination could be impacted when opened on mobile devices with different versions of systems or rooted.
- 	stability risks (crashes, disconnects, etc)
+ 	stability risks (crashes, disconnects, etc).
+- Data breaches, payment frauds and regulatory compliance issues may appear after launching the website to the customers. 
+- Stability risks (crashes, disconnects, etc).
 
 
 **1.1.6 Evaluating entry criteria**
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+-	Smoke test passed.
+-	Testing environment is up and running.
+-	Test data should be available to cover the different scenarios and use cases that will be tested.
+-	Test schedule is prepared.
 
 
 **1.2 Test Monitoring and Control**
@@ -106,6 +110,8 @@ It will be done by generating periodic reports that reflect the current status o
 **1.3 Test Analysis**
 
 The testing process will be executed based on the above requirements for the ***module under test name***. The following test conditions were found:
+
+- V
 
  - Enter test conditions here
 
