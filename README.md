@@ -66,8 +66,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 -	To provide customers with a user account system that allows them to track their orders and cancel them if its needed and manage their information.
 -	To implement a shopping cart and checkout process that is secure and easy to use.
 -	To provide photos for each product so the customers know what they are gonna buy.
--	To add a variety of pets so you can have from where to choose.•	Compatible with all most used browsers.
--	From the many reviews we got on social media we understand that the customers want a performant website, and we create one with fast loading time , fast   responsive design and efficient navigation.
+-	To add a variety of pets so you can have from where to choose.
+-	Compatible with all most used browsers.
+-	From the many reviews we got on social media we understand that the customers want a performant website, and we create one with fast loading time,fast responsive design and efficient navigation.
 
   **Tests not in scope:**
 
