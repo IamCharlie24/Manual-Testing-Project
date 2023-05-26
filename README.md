@@ -7,7 +7,7 @@ API Documentation: link to API documentation if exists or N/A
 
 **The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used:
+Tools used:  JIRA
 
 **Functional specifications**
 
@@ -17,12 +17,16 @@ ____
 
 **1.1 Test Planning**
 
-The Test Plan is designed to describe all details of testing for the X module from the ***name of the application chosen to be tested***.
+The Test Plan is designed to describe all details of testing for the X module from the ***JPetStore***.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 **1.1.1 Roles assigned to the project and persons allocated**
 
+- Project manager - Andrei Laurentiu
+- Product owner - Mark Smith
+- Software developer - Mihai Ion
+- QA Engineer - Andrei Grigore
 
 **1.1.2 Entry criteria defined**
 
@@ -54,12 +58,42 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 **1.1.4 Test scope**
- - **Tests in scope:**
- - **Tests not in scope:**
+
+  **Tests in scope:**
+  
+  
+-	To design a user-friendly interface that allows customers to browse and search for products easily.
+-	To provide customers with a user account system that allows them to track their orders and cancel them if its needed and manage their information.
+-	To implement a shopping cart and checkout process that is secure and easy to use.
+-	To provide photos for each product so the customers know what they are gonna buy.
+-	To add a variety of pets so you can have from where to choose.•	Compatible with all most used browsers.
+-	From the many reviews we got on social media we understand that the customers want a performant website, and we create one with fast loading time , fast   responsive design and efficient navigation.
+
+  **Tests not in scope:**
+
+-	Non-functional testing like stress, performance is beyond scope of this project.
+-	No QA support for mobile applications developed. Only web applications will be tested.
+-	Automation testing is beyond scope
+
 
 **1.1.5 Risks detected:**
- - Projects risks:
- - Product risks:
+ - Projects risks: 
+ 
+  Technology Dependencies: Dependencies on third-party technologies, frameworks, or APIs may introduce risks related to compatibility issues, version conflicts, or lack of support, which can hinder the development process.
+
+-  Testing: Insufficient time or resources allocated for testing activities may result in inadequate test coverage, leading to undetected defects and potential quality issues in the final product.
+
+- Communication Breakdown: Poor communication and collaboration among team members, stakeholders, or external vendors can result in misunderstandings, delays, and rework.
+
+- Budget Constraints: Insufficient budget allocation for the project may limit access to necessary resources, tools, or technologies, impacting the overall quality or timely completion of the website.
+
+ - Poduct risks:
+
+- IE browser might have performance issues.
+- Versions of IE older than Version 112.0.1722.68 have security vulnerabilities (cross-site scripting( user data can be stolen after injecting malicious code in  the website), exploits on buying system).
+- The web page pagination could be impacted when opened on mobile devices with different versions of systems or rooted.
+ 	stability risks (crashes, disconnects, etc)
+
 
 **1.1.6 Evaluating entry criteria**
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
