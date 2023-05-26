@@ -1,7 +1,7 @@
 # Proiect-Practic-Testare-Manuala
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and aplly them in practice, using a live application
 
-Application under test: [Application Name](https://www.google.com)
+Application under test: [JPetStore](https://petstore.octoperf.com/actions/Catalog.action)
 
 API Documentation: link to API documentation if exists or N/A
 
