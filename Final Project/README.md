@@ -3,11 +3,11 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: [JPetStore](https://petstore.octoperf.com/actions/Catalog.action)
 
-API Documentation: link to API documentation if exists or N/A
+
 
 **The final project will be split into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used:  JIRA
+Tools used:JIRA, Zephyr Squad
 
 **Functional specifications**
 
@@ -142,7 +142,7 @@ enter here bug titles
  -> enter here test execution report/chart
 
 
-**2 SQL section**
+*
 
 
 
