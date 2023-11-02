@@ -109,15 +109,19 @@ It will be done by generating periodic reports that reflect the current status o
 
 **1.3 Test Analysis**
 
-The testing process will be executed based on the above requirements for the ***module under test name***. The following test conditions were found:
+The testing process will be executed based on the above requirements for the ***Account System***. The following test conditions were found:
 
-- V
-
- - Enter test conditions here
+- Verify that a registered user can update his personal information using "Account Management" method.
+- Verify if a user can update his personal information with empty fields using "Account Management" feature.
+- Verify if a registered user can access the "Account Management" feature.
+- Verify if a non-registered user can access the "Account Management" feature.
+- Verify user's ability to edit profile picture via "Account Management" feature.
 
 **1.4 Test Design**
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
+
+
 
 Test cases: -> enter here test cases or at least the titles
 The test cases with steps can be viewed here: [test_cases.pdf]()
