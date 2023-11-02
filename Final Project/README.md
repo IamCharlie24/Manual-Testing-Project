@@ -136,7 +136,7 @@ The following elements are needed to be ready before the test execution phase be
  - 
 **1.6 Test Execution**
 
- - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf]()
+ - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Cycle_summary_execution..pdf)
  - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Bugs.pdf)
 
 * The user can use "Easy Registration" method with a invalid username and a valid password.
