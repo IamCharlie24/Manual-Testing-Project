@@ -132,8 +132,14 @@ The test cases with steps can be viewed here: [test_cases.pdf](https://github.co
 
 The following elements are needed to be ready before the test execution phase begins:
 
- - enter here what needs to be ready for the test execution to begin
- - 
++Testing environment is up and running: https://jpetstore.aspectran.com/catalog/
+
++Access to the testing environment is given: Username : j2ee | Password : j2ee
+
++Cycle summary was created.
+
++Test cases were added to the cycle summary.
+ 
 **1.6 Test Execution**
 
  - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Cycle_summary_execution..pdf)
