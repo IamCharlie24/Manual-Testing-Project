@@ -6,7 +6,7 @@ Application under test: [JPetStore](https://petstore.octoperf.com/actions/Catalo
 
 
 
-Tools used:JIRA, Zephyr Squad
+Tools used: JIRA, Zephyr Squad
 
 **Functional specifications**
 
