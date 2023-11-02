@@ -150,10 +150,11 @@ The following elements are needed to be ready before the test execution phase be
 * The choose product didn't show the correct image of the product from "Products' module.
 
 **1.7 Test Completion**
- - Exit criteria was evaluated and passed
- - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Traceability_Matrix.xlsx)
- - Test execution chart was generated, the final report shows that a number of 
- -> enter here test execution report/chart
+ - Exit criteria was evaluated and passed.
+ - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Cycle_Summary_report.pdf)
+ - Test execution chart was generated, the final report shows that a number of 5 tests fail of a total of 23.
+ - A number of 23 test cases were planned for execution and all of them were executed.
+ - A number of 5 total bugs were found, from which the priority is: 1 highest, 1 high and 3 medium
 
 
 
