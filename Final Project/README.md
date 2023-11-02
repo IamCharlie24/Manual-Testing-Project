@@ -121,6 +121,8 @@ The testing process will be executed based on the above requirements for the ***
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
 
+![test](https://github.com/IamCharlie24/Manual-Testing-Project/assets/133395092/2f0c5e31-70ca-43a4-ab6c-614b2261a396)
+
 
 
 Test cases: -> enter here test cases or at least the titles
