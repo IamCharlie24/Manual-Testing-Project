@@ -137,8 +137,17 @@ The following elements are needed to be ready before the test execution phase be
 **1.6 Test Execution**
 
  - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf]()
- - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-enter here bug titles
+ - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Bugs.pdf)
+
+- The user can use "Easy Registration" method with a invalid username and a valid password.
+
+- The user can use "Easy Registration" method with a invalid username and a valid password.
+
+- Unable to Edit Profile Picture in "Account Management"
+
+- The prices of products are displayed incorrectly.
+
+- The choose product didn't show the correct image of the product from "Products' module.
 
 **1.7 Test Completion**
  - Exit criteria was evaluated and passed
