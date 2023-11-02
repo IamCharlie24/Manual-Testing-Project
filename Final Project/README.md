@@ -125,7 +125,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-Test cases: -> enter here test cases or at least the titles
+
 The test cases with steps can be viewed here: [test_cases.pdf]()
 
 **1.5 Test Implementation**
