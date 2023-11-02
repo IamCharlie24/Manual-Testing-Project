@@ -126,7 +126,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Test_cases_JPetStore.pdf)
 
 **1.5 Test Implementation**
 
