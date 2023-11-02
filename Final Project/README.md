@@ -156,6 +156,8 @@ The following elements are needed to be ready before the test execution phase be
  - A number of 23 test cases were planned for execution and all of them were executed.
  - A number of 5 total bugs were found, from which the priority is: 1 highest, 1 high and 3 medium
 
+![Picture1](https://github.com/IamCharlie24/Manual-Testing-Project/assets/133395092/15ba93be-a6ec-43ae-bd9d-37f9b1ac2f4b)
+
 
 
 
