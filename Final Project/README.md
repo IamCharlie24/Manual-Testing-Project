@@ -111,11 +111,16 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the ***Account System***. The following test conditions were found:
 
-- Verify that a registered user can update his personal information using "Account Management" method.
-- Verify if a user can update his personal information with empty fields using "Account Management" feature.
-- Verify if a registered user can access the "Account Management" feature.
-- Verify if a non-registered user can access the "Account Management" feature.
-- Verify user's ability to edit profile picture via "Account Management" feature.
+- Verify if a user can login in with a valid username and incorrect password.
+- Verify if the user can successfully receive an Email Verification after resetting password.
+- Verify if a user can login without filing the username and passwords fields.
+- Verify Successful Security Question Verification for Account Recovery.
+- Verify if a user can login with an incorrect CAPTCHA verification.
+- Verify Invalid Email Adress for Account Recovery.
+- Verify Incorrect Security Question Answers for Account Recovery.
+- Verify if a user can login with a successful CAPTCHA verification.
+- Verify if a user can login after reloading/refreshing the CAPTCHA.
+- Verify if a user can login in with a incorrect username and valid password.
 
 **1.4 Test Design**
 
