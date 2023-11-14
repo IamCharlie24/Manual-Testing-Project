@@ -8,11 +8,17 @@ Application under test: [JPetStore](https://petstore.octoperf.com/actions/Catalo
 
 Tools used: JIRA, Zephyr Squad
 
-**Functional specifications**
-
+# **Functional specifications**
 ____
 
-**Testing section**
+**The below stories were made in JIRA the functional specifications of the "Account System" and "Product" module , for which the final project is performed upon.**
+
+![story v1](https://github.com/IamCharlie24/Manual-Testing-Project/assets/133395092/d486d208-c74c-44a7-9e52-68314ed02816)
+
+
+
+
+# **Testing section**
 
 **1.1 Test Planning**
 
