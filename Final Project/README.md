@@ -113,6 +113,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 It will be done by generating periodic reports that reflect the current status of the test.
 
+![Screenshot 2023-11-14 200117](https://github.com/IamCharlie24/Manual-Testing-Project/assets/133395092/c52188c5-cebf-4b37-9b97-efc53becde84)
+
 **1.3 Test Analysis**
 
 The testing process will be executed based on the above requirements for the ***Account System***. The following test conditions were found:
