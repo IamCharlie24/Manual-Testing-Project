@@ -173,7 +173,7 @@ The following elements are needed to be ready before the test execution phase be
 
 * The prices of products are displayed incorrectly.
 
-* The choose product didn't show the correct image of the product from "Products' module.
+* The prices of products are wrongly calculated when products are loaded on the platform
 
 **1.7 Test Completion**
  - Exit criteria was evaluated and passed.
