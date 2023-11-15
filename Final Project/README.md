@@ -101,10 +101,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.6 Evaluating entry criteria**
 
--	Smoke test passed.
--	Testing environment is up and running.
--	Test data should be available to cover the different scenarios and use cases that will be tested.
--	Test schedule is prepared.
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 
 **1.2 Test Monitoring and Control**
@@ -146,7 +143,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Test_cases_JPetStore.csv)
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Test_Cases_JPetStore.csv)
 
 **1.5 Test Implementation**
 
@@ -162,8 +159,8 @@ The following elements are needed to be ready before the test execution phase be
  
 **1.6 Test Execution**
 
- - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Cycle_Summary_Report.pdf)
- - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Bugs_report.pdf)
+ - Test cases are executed on the created test Cycle summary(or Test Run): [cycle_summary_execution.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Cycle_Summary_report..pdf)
+ - Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Bug_report.pdf)
 
 * The user can use "Easy Registration" method with a invalid username and a valid password.
 
@@ -177,7 +174,7 @@ The following elements are needed to be ready before the test execution phase be
 
 **1.7 Test Completion**
  - Exit criteria was evaluated and passed.
- - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Traceability_Matrix_.xlsx)
+ - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/IamCharlie24/Manual-Testing-Project/blob/main/Final%20Project/Traceability_Matrix_JPetStore.xlsx)
  - Test execution chart was generated, the final report shows that a number of 5 tests fail of a total of 23.
  - A number of 23 test cases were planned for execution and all of them were executed.
  - A number of 5 total bugs were found, from which the priority is: 1 highest, 1 high and 3 medium
