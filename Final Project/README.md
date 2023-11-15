@@ -104,6 +104,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 
+
+
 **1.2 Test Monitoring and Control**
 
 It will be done by generating periodic reports that reflect the current status of the test.
