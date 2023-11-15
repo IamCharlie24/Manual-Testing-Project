@@ -35,15 +35,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.2 Entry criteria defined**
 
-- Smoke test passed. 
+- Project risks to be identified and mitigated.
 
-- Testing environment is up and running.
+- Test plan to be created.
 
-- Test data should be available to cover the different scenarios and use cases that will be tested.
+- Entry requirements to be met
 
-- Test schedule is prepared.
-
-- Any additional documentation related to specific test scenarios or test data is also prepared.
+- Roles to be assigned.
 
 **1.1.3 Exit criteria defined**
 
